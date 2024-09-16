@@ -1,0 +1,4 @@
+﻿  Source.c
+D:\VGTU\Homework\Exercise 2.3\Source.c(7,2): warning C4013: task3: нет определения; предполагается "extern" с возвратом типа "int"
+D:\VGTU\Homework\Exercise 2.3\Source.c(16,1): warning C4716: task3: должна возвращать значение
+  Exercise 2.3.vcxproj -> D:\VGTU\Homework\x64\Debug\Exercise 2.3.exe
