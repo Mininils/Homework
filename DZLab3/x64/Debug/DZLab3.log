@@ -1,0 +1,8 @@
+﻿  HomeworkLab3.c
+D:\VGTU\Homework\DZLab3\HomeworkLab3.c(3,9): warning C4005: _CRT_SECURE_NO_DEPRECATE: изменение макроопределения
+      D:\VGTU\Homework\DZLab3\HomeworkLab3.c(3,9):
+      "_CRT_SECURE_NO_DEPRECATE" ранее объявлен в командной строке
+  
+D:\VGTU\Homework\DZLab3\HomeworkLab3.c(11,2): warning C4013: task1: нет определения; предполагается "extern" с возвратом типа "int"
+D:\VGTU\Homework\DZLab3\HomeworkLab3.c(24,1): warning C4716: task1: должна возвращать значение
+  DZLab3.vcxproj -> D:\VGTU\Homework\x64\Debug\DZLab3.exe
