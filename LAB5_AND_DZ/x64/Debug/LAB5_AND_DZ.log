@@ -1,0 +1,11 @@
+﻿  Source.c
+D:\VGTU\Homework\LAB5_AND_DZ\Source.c(17,37): warning C4101: r5: неиспользованная локальная переменная
+D:\VGTU\Homework\LAB5_AND_DZ\Source.c(17,25): warning C4101: r2: неиспользованная локальная переменная
+D:\VGTU\Homework\LAB5_AND_DZ\Source.c(17,33): warning C4101: r4: неиспользованная локальная переменная
+D:\VGTU\Homework\LAB5_AND_DZ\Source.c(17,29): warning C4101: r3: неиспользованная локальная переменная
+D:\VGTU\Homework\LAB5_AND_DZ\Source.c(29,37): warning C4101: r5: неиспользованная локальная переменная
+D:\VGTU\Homework\LAB5_AND_DZ\Source.c(29,33): warning C4101: r4: неиспользованная локальная переменная
+D:\VGTU\Homework\LAB5_AND_DZ\Source.c(43,1): warning C4716: task3: должна возвращать значение
+D:\VGTU\Homework\LAB5_AND_DZ\Source.c(14,1): warning C4716: task1: должна возвращать значение
+D:\VGTU\Homework\LAB5_AND_DZ\Source.c(26,1): warning C4716: task2: должна возвращать значение
+  LAB5_AND_DZ.vcxproj -> D:\VGTU\Homework\x64\Debug\LAB5_AND_DZ.exe
