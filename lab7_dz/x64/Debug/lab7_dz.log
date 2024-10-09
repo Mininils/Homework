@@ -1,0 +1,4 @@
+﻿  lab7.c
+C:\Users\User\Downloads\lab7.c(60,1): warning C4716: task2: должна возвращать значение
+C:\Users\User\Downloads\lab7.c(233,1): warning C4716: dz: должна возвращать значение
+  lab7_dz.vcxproj -> D:\VGTU\Homework\x64\Debug\lab7_dz.exe
