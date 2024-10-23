@@ -1,0 +1,6 @@
+﻿  Source.c
+D:\VGTU\Homework\Lab9_1_2\Source.c(24,5): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+D:\VGTU\Homework\Lab9_1_2\Source.c(40,1): warning C4716: task1_3: должна возвращать значение
+D:\VGTU\Homework\Lab9_1_2\Source.c(25,1): warning C4716: task1_2: должна возвращать значение
+D:\VGTU\Homework\Lab9_1_2\Source.c(72,1): warning C4716: task2: должна возвращать значение
+  Lab9_1_2.vcxproj -> D:\VGTU\Homework\x64\Debug\Lab9_1_2.exe
