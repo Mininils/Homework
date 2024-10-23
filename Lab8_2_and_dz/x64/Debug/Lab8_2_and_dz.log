@@ -1,0 +1,6 @@
+﻿  Source.c
+D:\VGTU\Homework\Lab8_2_and_dz\Source.c(13,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\VGTU\Homework\Lab8_2_and_dz\Source.c(12,20): warning C4305: инициализация: усечение из "double" в "float"
+D:\VGTU\Homework\Lab8_2_and_dz\Source.c(16,1): warning C4716: task2: должна возвращать значение
+D:\VGTU\Homework\Lab8_2_and_dz\Source.c(38,1): warning C4716: dz_lab8: должна возвращать значение
+  Lab8_2_and_dz.vcxproj -> D:\VGTU\Homework\x64\Debug\Lab8_2_and_dz.exe
