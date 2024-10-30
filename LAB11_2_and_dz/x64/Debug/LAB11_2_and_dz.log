@@ -1,0 +1,10 @@
+﻿  Source.c
+C:\Users\User\Downloads\Source.c(40,29): warning C4013: pow: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\User\Downloads\Source.c(40,33): warning C4013: cos: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\User\Downloads\Source.c(36,20): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\User\Downloads\Source.c(26,17): warning C4101: y: неиспользованная локальная переменная
+C:\Users\User\Downloads\Source.c(32,11): warning C4101: temp: неиспользованная локальная переменная
+C:\Users\User\Downloads\Source.c(77,1): warning C4716: dz: должна возвращать значение
+C:\Users\User\Downloads\Source.c(23,1): warning C4716: task1: должна возвращать значение
+C:\Users\User\Downloads\Source.c(53,1): warning C4716: task2: должна возвращать значение
+  LAB11_2_and_dz.vcxproj -> D:\VGTU\Homework\x64\Debug\LAB11_2_and_dz.exe
