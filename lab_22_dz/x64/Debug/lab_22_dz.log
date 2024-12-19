@@ -1,0 +1,6 @@
+﻿  dz22.c
+C:\Users\Sergey\source\repos\lab_22_dz\dz22.c(3,9): warning C4005: _CRT_SECURE_NO_DEPRECATE: изменение макроопределения
+      C:\Users\Sergey\source\repos\lab_22_dz\dz22.c(3,9):
+      "_CRT_SECURE_NO_DEPRECATE" ранее объявлен в командной строке
+  
+  lab_22_dz.vcxproj -> C:\Users\Sergey\source\repos\lab_22\x64\Debug\lab_22_dz.exe
